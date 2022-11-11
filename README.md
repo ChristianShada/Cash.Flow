@@ -18,4 +18,4 @@
 * The Rightmost gives the user the information of which loan numbers will be closing, when, and how much is outstanding in the time fram chosen by the user.
 
 ### Loans in Closing
-* 
+* <img align="right" img width="170" height="250" alt="dec_temps" src="https://user-images.githubusercontent.com/89173945/142774910-06155a8d-99cb-4973-bfcd-205172abd1f6.PNG">
