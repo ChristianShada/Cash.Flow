@@ -18,4 +18,4 @@
 * The Rightmost gives the user the information of which loan numbers will be closing, when, and how much is outstanding in the time fram chosen by the user.
 
 ### Loans in Closing
-* <img align="right" img width="170" height="250" alt="dec_temps" src="https://github.com/ChristianShada/Cash.Flow/blob/main/Monthly_View_of_Draw_Amounts.PNG">
+* <img align="left" img width="300" height="500" alt="dec_temps" src="https://github.com/ChristianShada/Cash.Flow/blob/main/Monthly_View_of_Draw_Amounts.PNG">
