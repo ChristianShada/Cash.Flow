@@ -11,11 +11,14 @@
 
 ## Report Layout
 ### Monthly View of Draw Amounts<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Monthly View Reports allows the users a stagnant view of what is projected within the upcoming months based on the given information or what has been reported.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Monthly View Reports allows the users a stagnant view of what is projected within the upcoming months based on the given information or what has been reported.<br><img align="left" img width="500" height="300" alt="dec_temps" src="https://github.com/ChristianShada/Cash.Flow/blob/main/Monthly_View_of_Draw_Amounts.PNG">
 
-* The Date Field allows the user to identify which dates in particular they would want to identify what loans are outstanding.<br>
-* The Amount Outstanding gives a glimps against the other loans how these loans affect the rest of the year.<br>
-* The Rightmost gives the user the information of which loan numbers will be closing, when, and how much is outstanding in the time fram chosen by the user.
+<br><br><br><br><br><br><br><br><br><br><br><br>
+### Loans in Funding, closing, and in Packagaing or Entry
 
-### Loans in Closing
-* <img align="left" img width="300" height="500" alt="dec_temps" src="https://github.com/ChristianShada/Cash.Flow/blob/main/Monthly_View_of_Draw_Amounts.PNG">
+The next three pages of the report will allow the user to choose any week within the scope of the study or time reported and drill in to what is expected fom what one could see on any given year, down to the direct date that they would want information from. This would be done using the date field on the left side. Once the dates have been identified, the graphs will adjust based on the criteria they have been given.
+<img align="left" width="500" height="300" alt="mar_temps" src="https://github.com/ChristianShada/Cash.Flow/blob/main/Loans_in_funding.PNG">
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
+## Opportunities
+Given the opportunities we could forshadow our numbers based on the different reports that we can pull from NLS and how we can skip the step of loading the report into Excel and right into BowerBI using coding languages like Python through Jupyter Notebook.
